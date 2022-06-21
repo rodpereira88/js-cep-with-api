@@ -1,2 +1,5 @@
 # js-cep-with-api
-Script que consulta o CEP com o ViaCEP, retorna a cidade e verifica se ela existe dentro da API Oya - Descoberta da Fertilidade
+Linguagem: JavaScript 
+
+1. Consulta o CEP na base do ViaCEP
+2. Verifica se a cidade existe dentro da API Oya
