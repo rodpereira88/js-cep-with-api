@@ -59,6 +59,11 @@
         } else {
         	resposta.innerHTML = 'NÃO tem essa cidade';
         }
+	      
+	// Ex. Evento de click para validação do CEP
+	btnCheck.addEventListener('click', () => {
+	 result.innerText = users.includes(input.value) ? 'True' : 'False';
+	});
 
       });
     });
